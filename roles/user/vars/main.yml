@@ -1,2 +1,2 @@
-REDIS_HOST: redis.somaraju.online
-MONGODB_HOST: mongodb.somaraju.online
+REDIS_HOST: redis-{{ env }}.somaraju.online
+MONGODB_HOST: mongodb-{{ env }}.somaraju.online

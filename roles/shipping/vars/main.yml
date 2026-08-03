@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql.somaraju.online
+MYSQL_HOST: mysql-{{ env }}.somaraju.online
 MYSQL_ROOT_USER: root
 MYSQL_ROOT_PASSWORD: RoboShop@1
-CART_HOST: cart.somaraju.online
+CART_HOST: cart-{{ env }}.somaraju.online

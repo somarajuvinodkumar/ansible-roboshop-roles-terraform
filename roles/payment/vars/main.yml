@@ -1,0 +1,5 @@
+CART_HOST: cart.backend-{{ env }}.somaraju.online
+USER_HOST: user.backend-{{ env }}.soamaraju.online
+RABBITMQ_HOST: rabbitmq-{{ env }}.somaraju.online
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123

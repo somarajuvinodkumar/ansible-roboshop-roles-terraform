@@ -1,1 +1,7 @@
 #FRONTEND_HOST: frontend.somaraju.online
+
+CATALOGUE_HOST: catalogue.backend-{{ env }}.somaraju.online
+CART_HOST: cart.backend-{{ env }}.somaraju.online
+USER_HOST: user.backend-{{ env }}.somaraju.online
+SHIPPING_HOST: shipping.backend-{{ env }}.somaraju.online
+PAYMENT_HOST: payment.backend-{{ env }}.soamarju.online

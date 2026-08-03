@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.somaraju.online
-REDIS_HOST: redis.somaraju.online
+CATALOGUE_HOST: catalogue.backend-{{ env }}.somaraju.online
+REDIS_HOST: redis-{{ env }}.somaraju.online

@@ -1,1 +1,2 @@
-MONGODB_HOST: mongodb-dev.somaraju.online
+MONGODB_HOST: "mongodb-{{ env }}.somaraju.online"
+
